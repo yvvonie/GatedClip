@@ -32,3 +32,6 @@ Performance comparison on the Hateful Memes validation set:
 
 The codebase is built using PyTorch and the Hugging Face Transformers library.
 
+Cite as:	arXiv:2602.20818 [cs.CV]
+Our Work has been shown in Arxiv: https://doi.org/10.48550/arXiv.2602.20818
+
